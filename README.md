@@ -168,7 +168,7 @@ Comprehensive repository covering fundamental and advanced AI concepts.
 www.linkedin.com/in/shobhitraj-b43136213
 
 📧 Email  
-divyarani2908@gmail.com
+shobhitraj4757@gmail.com
 
 ---
 
