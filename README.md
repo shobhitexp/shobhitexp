@@ -1,127 +1,148 @@
-<h1 align="center">Hi 👋, I'm Shobhit Raj</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer • Revenue Intelligence • Forecasting • Business Analytics
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shobhit%20Raj&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-<p align="center">
-Building Machine Learning Systems that Drive Business Growth 🚀
-</p>
+# 👋 Hi, I'm Shobhit Raj
+
+### AI/ML Engineer • Generative AI • Revenue Intelligence • Forecasting • Business Analytics
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Revenue+Intelligence+Specialist;Forecasting+%26+Predictive+Analytics;Power+BI+Developer;MLOps+Enthusiast;Turning+Data+into+Revenue+Growth" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI+Builder;Revenue+Intelligence+Specialist;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Forecasting+%26+Predictive+Analytics;RAG+Systems+%7C+Agentic+AI;Turning+Data+Into+Business+Growth" />
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am an AI/ML Engineer passionate about building intelligent systems that solve real business problems.
+I'm an AI/ML Engineer passionate about building intelligent systems that solve real-world business problems.
 
-My experience spans:
+My work focuses on:
 
 - 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 Natural Language Processing
+- ⚡ Generative AI
 - 📈 Revenue Forecasting
 - 🎯 Lead Scoring
 - 📊 Business Intelligence
-- 📉 A/B Testing
-- ☁️ AWS Cloud
-- 📋 Revenue Operations
-- 🔍 Data Analytics
+- ☁️ AWS & Cloud Solutions
+- 🔍 Advanced Analytics
+- 🚀 MLOps
 
-I enjoy transforming raw business data into predictive insights that help organizations grow faster and make smarter decisions.
-
----
-
-## 💼 Professional Highlights
-
-✅ Built ML models for revenue forecasting
-
-✅ Developed lead scoring frameworks
-
-✅ Worked on sentiment analysis and predictive analytics
-
-✅ Created Power BI dashboards for business decision-making
-
-✅ Experience with RevOps and GTM analytics
-
-✅ Strong background in experimentation and A/B testing
+I enjoy building solutions that transform raw data into actionable business insights.
 
 ---
 
-## 🛠 Tech Stack
+# 🏆 Flagship Repository
 
-### Programming
+## 🚀 AI Engineer Roadmap Repository
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📚 Python-Stastics-ML-NLP-DL-AI
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+🔗 Repository:
 
----
+https://github.com/shobhitexp/Python-Stastics-ML-NLP-DL-AI
 
-### Machine Learning
+Complete learning roadmap covering:
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+✅ Python
 
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+✅ Statistics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+✅ Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+✅ Deep Learning
 
----
+✅ Natural Language Processing
 
-### Analytics & BI
+✅ Computer Vision
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+✅ Generative AI
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+✅ MLOps
 
----
+✅ Docker
 
-### Cloud & Tools
+✅ Production Projects
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+✅ Interview Preparation
 
 ---
 
-## 📂 Featured Projects
+# 💼 Featured Projects
 
-### 🎾 Tennis Match Winner Prediction
+### 🚀 AI Engineer Roadmap
 
-Machine learning model to predict tennis match outcomes using player statistics and performance indicators.
+Comprehensive AI learning repository from Python to Production AI.
+
+---
+
+### 🎾 Tennis Winner Prediction
+
+Machine Learning model for predicting tennis match outcomes.
 
 ---
 
 ### 🧪 A/B Testing Framework
 
-Statistical experimentation framework for business decision-making and conversion optimization.
+Statistical experimentation and business optimization.
 
 ---
 
-### 📈 Pharmaceutical Sales Analytics Dashboard
+### 📈 Pharmaceutical Sales Analytics
 
-Power BI dashboard analyzing sales trends, product performance, and business KPIs.
+Interactive Power BI dashboard for business insights.
 
 ---
 
 ### 🤖 Diabetes Prediction System
 
-Predictive analytics project using machine learning classification techniques.
+End-to-end machine learning healthcare project.
 
 ---
 
-### 📚 Python Statistics, ML, NLP & Deep Learning
+# 🛠️ Tech Stack
 
-Comprehensive repository covering fundamental and advanced AI concepts.
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## Machine Learning & AI
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+
+---
+
+## Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+## Analytics & BI
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+---
+
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -139,39 +160,60 @@ Comprehensive repository covering fundamental and advanced AI concepts.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Agentic AI
-- LLM Applications
-- RAG Systems
+- Multi-Agent Systems
+- RAG Pipelines
+- LangGraph
+- AI Product Development
 - Advanced MLOps
-- Multi-Agent Frameworks
-- Revenue Intelligence Systems
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Build production-grade AI systems
-- Contribute to open source ML projects
-- Develop Revenue Intelligence products
-- Master Agentic AI workflows
-- Create impactful data products
+- Build Production AI Systems
+- Launch AI Products
+- Contribute to Open Source
+- Master Agentic AI
+- Develop Revenue Intelligence Platforms
 
 ---
 
-## 🤝 Connect With Me
+# 📈 Career Interests
+
+- AI Engineer
+- Machine Learning Engineer
+- Generative AI Engineer
+- Data Scientist
+- Revenue Intelligence Analyst
+- MLOps Engineer
+
+---
+
+# 🤝 Connect With Me
 
 📍 Bengaluru, India
 
-💼 LinkedIn  
+💼 LinkedIn
+
 www.linkedin.com/in/shobhitraj-b43136213
 
-📧 Email  
+📧 Email
+
 shobhitraj4757@gmail.com
 
 ---
 
-## 💡 Philosophy
+# 💡 Favorite Quote
 
-> "Data explains the past. Analytics reveals the present. AI predicts the future."
+> "Data explains the past. Analytics reveals the present. AI creates the future."
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories ⭐
+
+</div>
