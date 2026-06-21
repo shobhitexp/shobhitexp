@@ -43,7 +43,7 @@ I enjoy building solutions that transform raw data into actionable business insi
 
 🔗 Repository:
 
-https://github.com/shobhitexp/Python-Stastics-ML-NLP-DL-AI
+Data Science - https://github.com/shobhitexp/Data-Science-to-GenAI
 
 Complete learning roadmap covering:
 
