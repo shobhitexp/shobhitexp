@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shobhit%20Raj&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F52BA,50:1E90FF,100:00BFFF&text=Shobhit%20Raj&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 
 # 👋 Hi, I'm Shobhit Raj
 
 ### AI/ML Engineer • Generative AI • Revenue Intelligence • Forecasting • Business Analytics
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI+Builder;Revenue+Intelligence+Specialist;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Forecasting+%26+Predictive+Analytics;RAG+Systems+%7C+Agentic+AI;Turning+Data+Into+Business+Growth" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer;Generative+AI+Builder;Revenue+Intelligence+Specialist;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Forecasting+%26+Predictive+Analytics;RAG+Systems+%7C+Agentic+AI;Turning+Data+Into+Business+Growth" />
 </p>
 
 </div>
